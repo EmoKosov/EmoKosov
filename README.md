@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Tech Stack
 
 <a href="https://skillicons.dev">
