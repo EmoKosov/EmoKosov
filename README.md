@@ -1,7 +1,7 @@
 ## Tech Stack
 
 <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,mysql,react,html,css" />
+   <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,mysql,angular,html,css" />
 </a>
 
 ## 🌐 You can find me on
