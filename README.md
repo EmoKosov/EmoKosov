@@ -1,4 +1,4 @@
-## Tech Stack
+## Learning...
 
 <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,mysql,angular,html,css" />
